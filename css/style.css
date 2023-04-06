@@ -1,0 +1,38 @@
+/* Created by: Savyon
+* Created on: Apr 2023
+* This CSS file defines the style for index.php
+* ICS2O-Unit3-01-HTML-PHP-HelloWorld
+*/
+
+body {
+	background-color: rgb(123, 0, 148);
+}
+
+h1 {
+	background-color: rgb(232, 154, 17);
+	color: hsl(0, 0%, 0%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #ffffff; 
+}
+
+div {
+  font-weight: bold;
+  color: #ffffff;
+  margin: 5px;
+}
+
+#display-results{
+  background-color: #050505;
+}
+
+label {
+  background-color: whitesmoke;
+}
+
+echo {
+  background-color: whitesmoke
+}
